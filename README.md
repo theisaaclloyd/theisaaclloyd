@@ -1,4 +1,4 @@
-## Isaac Lloyd | [linkedin](https://linkedin.com/in/isaacll) | [website](https://isaacclloyd.com/) | [email](mailto:isaac@isaacclloyd.com)
+## Isaac Lloyd | [linkedin](https://linkedin.com/in/lloydisaac) | [website](https://isaacclloyd.com/) | [email](mailto:isaac@isaacclloyd.com)
 
 I am a cyber operations and computer science student building secure technology that solves real problems. At Cedarville University, I've developed technical skills through cybersecurity coursework and competitions, recently ranking in the 99th percentile among 8,500+ participants in the National Cyber League. My time spent as a Software Developer with the Creative Solutions Group taught me to apply these skills in team-based projects. This past school year we designed, built, and released a full-stack Next.js application, a collaborative event planning/mapping tool that will significantly improve the Campus Experience team’s effectiveness in designing event plans.
 
