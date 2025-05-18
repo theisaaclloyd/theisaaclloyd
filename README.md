@@ -1,11 +1,13 @@
-## Isaac Lloyd | [linkedin/isaacll](https://linkedin.com/in/isaacll) | [isaacclloyd.com](https://isaacclloyd.com/) | [email me](mailto:isaac@isaacclloyd.com)
+## Isaac Lloyd | [linkedin](https://linkedin.com/in/isaacll) | [website](https://isaacclloyd.com/) | [email](mailto:isaac@isaacclloyd.com)
 
-Hey, I'm Isaac. I'm a sophomore computer science student, and in my free time I write code. As a student, my free time is rare, but at least in my not-free time I also write code.
+I am a cyber operations and computer science student building secure technology that solves real problems. At Cedarville University, I've developed technical skills through cybersecurity coursework and competitions, recently ranking in the 99th percentile among 8,500+ participants in the National Cyber League. My time spent as a Software Developer with the Creative Solutions Group taught me to apply these skills in team-based projects. This past school year we designed, built, and released a full-stack Next.js application, a collaborative event planning/mapping tool that will significantly improve the Campus Experience team’s effectiveness in designing event plans.
 
-I post most of my "fun" projects here publicly, so if you want to see what I’ve been working on, check out my profile.
+I have found that great work happens when talented people commit to excellence together. This idea has guided my work in everything that I do, from national cybersecurity competitions or large collaborative full-stack development projects to spending time with the people I care about or investing time into learning. I have been blessed to work alongside many talented people, and being able to share my motivation with them has led to some really amazing accomplishments, such as my team’s placement in the 2024 Hivestorm competition (32nd out of 446 teams). 
 
-Feel free to email me with any questions, comments, or concerns (except for comments on my commit messages—I usually lack creativity past 3 AM).
+Some specific skills I would like to highlight:
+ - Offensive Security: OSINT, web application exploitation, and vulnerability assessment
+ - Security Implementations: Authentication systems and secure API design
+ - Full Stack Development: React/Next.js, TypeScript, Node.js/Express
+ - DevOps: Docker, Docker Compose, CI/CD workflows, GitHub automation, deployment strategies
 
-Jokes aside, I've loved computers and software since I was 9, and I feel blessed to be learning so much more through my education. I am passionate about creative problem-solving with software and hardware, and I love spending my pastime creating random projects to do cool things (every now and then I even make something useful...).
-
-—Isaac
+I believe that high-quality technology needs both architects who understand systems and collaborators who connect with people. I aim to be both.
